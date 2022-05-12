@@ -191,19 +191,19 @@ if(A>2000000)			//1uSec = 1 clock  hence 2 Sec = 2000000 Cycle
 		while(SCount==1)
 		{
 		LED_1_ON();
-		Delay(20000);
+		Delay(10000);
 		LED_1_OFF();
 		LED_2_ON();
-		Delay(20000);
+		Delay(10000);
 		LED_2_OFF();
 		LED_3_ON();
-		Delay(20000);
+		Delay(10000);
 		LED_3_OFF();
 		LED_2_ON();
-		Delay(20000);
+		Delay(10000);
 		LED_2_OFF();
 		LED_1_ON();
-		Delay(20000);
+		Delay(10000);
 		LED_1_OFF();
 		}
 
