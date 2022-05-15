@@ -5,6 +5,6 @@
 | --- | --- | --- |
 | TP1 |TURN ON IGINATION | PASS |
 | TP2 |TURN ON WIPER SYSTEM | PASS  |
-| TP4 |CHANGE SPEED OF WIPER  | PASS |
+| TP4 |CHANGE SPEED OF WIPER  | Fail |
 
 
